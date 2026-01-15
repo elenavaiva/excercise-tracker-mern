@@ -33,7 +33,7 @@ This project was built as a portfolio project to practice full-stack development
 
 ## Project Structure
 
-exercise-tracker-mern/
+exercise-tracker/
 - backend-rest/
 - frontend-react/
 
